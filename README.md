@@ -1,4 +1,4 @@
-# black-door
+<h1>Black Door</h1>
 <h3>What is it? </h3>
 Black Door is an open-source directory for things to to in your city. 
 <h3>Stack </h3>
