@@ -2,8 +2,8 @@
 <h3>What is it? </h3>
 Black Door is an open-source directory for things to to in your city. 
 <h3>Stack </h3>
-React
-Mapbox API
+React,
+Mapbox API,
 Bootstrap
 <h3>What does it do?</h3>
 Black Door presents users with a host of things to do in their city, from restaurants to hikes to art galleries and museums.
